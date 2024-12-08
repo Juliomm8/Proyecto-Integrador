@@ -1,0 +1,1 @@
+Este codigo es un sistema que permite gestionar productos farmacéuticos, implementando funcionalidades como ingresar, editar, eliminar productos, consultar información y realizar cálculos como el precio de venta al público (P.V.P). A continuación, presento un análisis detallado:
